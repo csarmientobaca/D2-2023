@@ -2,7 +2,6 @@ import { Col } from "react-bootstrap";
 import Card from 'react-bootstrap/Card';
 
 import Books from "../data/fantasy.json"
-import CardGroup from 'react-bootstrap/CardGroup';
 
 
 function CardMain() {
